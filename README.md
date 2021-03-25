@@ -2,8 +2,8 @@
 
 This repository contains mechanical CAD for the Team Optimal IDP robots.
 
-Coming soon.
+## Render
 
-## Renders
+I, @tim-clifford, made this dracula themed. I have an addiction.
 
-Insert renders here.
+![Render](render.png)
